@@ -98,7 +98,7 @@ Focused on performance in **real-world Indian traffic conditions**
 
 ## 👨‍💻 Author
 
-**Sharwil Bhende**
+**Samiksha Paliwal**
 
 ---
 
